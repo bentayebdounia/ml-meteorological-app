@@ -1,19 +1,18 @@
 #  MACHINE LEARNING TECHNIQUES APPLIED ON METEOROLOGICAL DATA
 
-
 ## **🔧 Installation & Configuration**  
 
-### **1️⃣ Prérequis**  
+### ** Prérequis**  
 - **Python** (Version 3.8 ou supérieure)  
 - **pip** (Gestionnaire de paquets Python)  
 
-### **2️⃣ Création de l'environnement virtuel**  
+### ** Création de l'environnement virtuel**  
 Dans le terminal, exécute :  
 ```sh
 python -m venv .venv
 ```
 
-### **3️⃣ Activation de l'environnement virtuel**  
+### ** Activation de l'environnement virtuel**  
 - **Sur Windows (CMD / PowerShell)** :  
   ```sh
   .venv\Scripts\Activate.ps1
@@ -34,4 +33,4 @@ Une fois l’environnement activé, installe les dépendances avec :
 python -m streamlit run app.py
 ```
 
----
+

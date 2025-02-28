@@ -30,5 +30,6 @@ py -m pip install -r requirements.txt
 
 ### **Running the Application**  
 ```sh
+cd src
 python -m streamlit run app.py
 ```  
